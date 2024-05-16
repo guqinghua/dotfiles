@@ -1,0 +1,9 @@
+mpv/watch_later
+mpv/tmp
+
+*.swp
+
+.Rprofile
+
+# IDE
+.idea

@@ -1,0 +1,16 @@
+caffeine
+dendroscope
+disk-inventory-x
+figtree
+github
+hammerspoon
+iina
+maczip
+mathpix-snipping-tool
+mpv
+qbittorrent
+qlstephen
+redisinsight
+scroll-reverser
+visual-studio-code
+zotero
